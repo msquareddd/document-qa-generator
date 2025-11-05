@@ -22,7 +22,7 @@ A Python application that processes documents (DOCX, PPTX, PDF, TXT, MD) and gen
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/msquareddd/document-qa-generator.git
 cd doc-processor
 ```
 
