@@ -1,0 +1,5 @@
+docling
+ollama
+requests
+python-dotenv
+pathlib
